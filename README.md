@@ -18,7 +18,7 @@ This is a simple command-line To-Do List Application written in Python. It allow
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/ShawdowDev/Simple-Terminal-To-Do-List.git
 ```
 
 
