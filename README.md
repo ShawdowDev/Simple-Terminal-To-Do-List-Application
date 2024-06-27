@@ -23,7 +23,7 @@ git clone https://github.com/ShawdowDev/Simple-Terminal-To-Do-List.git
 
 
 ```
-cd todo-list
+cd python todo_list
 ```
 
 2. **Install Python (if not already installed):**
